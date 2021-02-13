@@ -1,0 +1,28 @@
+{
+  "name": "fuzzidex",
+  "version": "0.1.0",
+  "description": "A simple, inefficient multi-language search index.",
+  "main": "fuzzidex",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xorgy/fuzzidex.git"
+  },
+  "keywords": [
+    "search",
+    "index",
+    "text",
+    "front-end",
+    "backend"
+  ],
+  "author": {
+    "name": "Aaron Muir Hamilton",
+    "email": "aaron@correspondwith.me",
+    "url": "https://qui.suis.je/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xorgy/fuzzidex/issues"
+  },
+  "homepage": "https://fuzzidex.aaronhamilton.us/",
+  "type": "module"
+}
