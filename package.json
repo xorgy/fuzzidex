@@ -1,8 +1,9 @@
 {
   "name": "fuzzidex",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "A simple, inefficient multi-language search index.",
   "main": "fuzzidex",
+  "files": ["index.js"],
   "repository": {
     "type": "git",
     "url": "https://github.com/xorgy/fuzzidex.git"
